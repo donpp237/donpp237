@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Windows%20Application%20Deverloper&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Windows%20Application%20Developer&fontSize=50)
 
 ## ✨ Languages
 <div style="display:flex; flex-direction:row;">
